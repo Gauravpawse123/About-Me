@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack Web developer, At PUNE-maharashatra
 - 💞️ I’m looking to collaborate on developers
 - 😄 Pronouns: Gaurav
-- ⚡ Fun fact: Simple
+- ⚡ Fun fact: Simple To Understand
 
 <!---
 Gauravpawse123/Gauravpawse123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
